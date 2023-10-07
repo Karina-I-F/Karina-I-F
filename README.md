@@ -14,5 +14,31 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Karina-I-F&style=flat-square&color=blue" alt=""/>
 </div>
-<!--
-**Karina-I-F/Karina-I-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+---
+
+### :woman_technologist: About Me :
+
+Hi, I am Karina. I am Python Developer from Kazan.
+
+:mailbox:How to reach me: [![Gmail](https://img.shields.io/badge/-ishmukhametova.k.f@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ishmukhametova.k.f@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/tro_ojan)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karina-I-F&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Karina-I-F)](https://github.com/ryo-ma/github-profile-trophy)
